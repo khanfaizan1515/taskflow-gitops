@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
         - name: taskflow
-          image: 977232999886.dkr.ecr.ap-south-1.amazonaws.com/taskflow:657a2f83617e54e2470fc02017881d5fa0a6c214
+          image: 977232999886.dkr.ecr.ap-south-1.amazonaws.com/taskflow:742e2b4bbbbe61bc01b1f4c989397036e7c3a541
           ports:
             - containerPort: 80
           resources:
